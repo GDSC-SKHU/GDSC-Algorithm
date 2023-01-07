@@ -2,6 +2,8 @@
 ## Easy
 https://leetcode.com/problems/longest-common-prefix/
 
+https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/
+
 ## Medium
 https://leetcode.com/problems/integer-to-roman/
 
@@ -76,6 +78,21 @@ class IntegerToRoman {
             count += 1
         }
         return answer
+    }
+}
+```
+
+### Easy
+- 주동석
+```swift
+class MinimumSum {
+    func minimumSum(_ num: Int) -> Int {
+        let array = num.description.map { i in i.description }
+        let sortedArray = array.sorted { a, b in
+            Int(a)! < Int(b)!
+        }
+        
+        return Int(sortedArray[0])! * 10 + Int(sortedArray[3])! + Int(sortedArray[1])! * 10 + Int(sortedArray[2])!
     }
 }
 ```
