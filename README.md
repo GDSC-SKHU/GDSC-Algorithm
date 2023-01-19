@@ -1,6 +1,25 @@
-## 0 주차
+<details>
+<summary>0 주차</summary>
+<div markdown="1">
+
 | 제목 | 링크 | 난이도 |
 |--|--|--|
 | Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix/ | Easy |
 | Integer to Roman | https://leetcode.com/problems/integer-to-roman/ | Medium |
 | Minimum Sum of Four Digit Number After Splitting Digits | https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/ | Easy |
+  
+</div>
+</details>
+
+<details>
+<summary>1 주차</summary>
+<div markdown="1">
+
+| 제목 | 링크 | 난이도 |
+|--|--|--|
+| Minimum Number of Operations to Convert Time | [https://leetcode.com/problems/longest-common-prefix/](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | Easy |
+| Largest Odd Number in String | [https://leetcode.com/problems/integer-to-roman/](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy |
+| Assign Cookies | [https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/](https://leetcode.com/problems/assign-cookies/) | Easy |
+  
+</div>
+</details>
