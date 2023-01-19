@@ -23,3 +23,18 @@
   
 </div>
 </details>
+
+<details>
+<summary>2 주차</summary>
+<div markdown="1">
+
+| 제목 | 링크 | 난이도 |
+|--|--|--|
+| Minimum Add to Make Parentheses Valid | https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/ | Medium |
+| Minimum Domino Rotations For Equal Row | https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/ | Medium |
+| Concatenation of Consecutive Binary Numbers | https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/ | Medium |
+| Integer Break | https://leetcode.com/problems/integer-break/ | Medium |
+
+  
+</div>
+</details>
