@@ -17,9 +17,9 @@
 
 | 제목 | 링크 | 난이도 |
 |--|--|--|
-| Minimum Number of Operations to Convert Time | [https://leetcode.com/problems/longest-common-prefix/](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | Easy |
-| Largest Odd Number in String | [https://leetcode.com/problems/integer-to-roman/](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy |
-| Assign Cookies | [https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/](https://leetcode.com/problems/assign-cookies/) | Easy |
+| Minimum Number of Operations to Convert Time | https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/ | Easy |
+| Largest Odd Number in String | https://leetcode.com/problems/largest-odd-number-in-string/ | Easy |
+| Assign Cookies | https://leetcode.com/problems/assign-cookies/ | Easy |
   
 </div>
 </details>
