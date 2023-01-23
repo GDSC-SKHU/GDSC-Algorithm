@@ -1,11 +1,9 @@
 # 문제
-## Medium
-https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+## Easy
+https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 
-https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
+https://leetcode.com/problems/largest-odd-number-in-string/
 
-https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
-
-https://leetcode.com/problems/integer-break/
+https://leetcode.com/problems/assign-cookies/
 
 # 풀이
