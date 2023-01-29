@@ -34,7 +34,7 @@
 | Minimum Domino Rotations For Equal Row | https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/ | Medium |
 | Concatenation of Consecutive Binary Numbers | https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/ | Medium |
 | Integer Break | https://leetcode.com/problems/integer-break/ | Medium |
-
+| Closest Divisors | https://leetcode.com/problems/closest-divisors/ | Medium |
   
 </div>
 </details>
