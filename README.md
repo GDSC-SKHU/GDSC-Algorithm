@@ -38,3 +38,16 @@
   
 </div>
 </details>
+
+<details>
+<summary>3 주차</summary>
+<div markdown="1">
+
+| 제목 | 링크 | 난이도 |
+|--|--|--|
+| 타겟 넘버 | https://school.programmers.co.kr/learn/courses/30/lessons/43165 | LEVEL2 |
+| Merge Two Binary Trees | https://leetcode.com/problems/merge-two-binary-trees/ | Easy |
+| All Paths From Source to Target | https://leetcode.com/problems/merge-two-binary-trees/ | Medium |
+  
+</div>
+</details>
