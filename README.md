@@ -51,3 +51,16 @@
   
 </div>
 </details>
+
+<details>
+<summary>4 주차</summary>
+<div markdown="1">
+
+| 제목 | 링크 | 난이도 |
+|--|--|--|
+| 소수 만들기 | https://school.programmers.co.kr/learn/courses/30/lessons/12977 | LEVEL1 |
+| 예산 | https://school.programmers.co.kr/learn/courses/30/lessons/12982 | LEVEL1 |
+| 점프와 순간이동 | https://school.programmers.co.kr/learn/courses/30/lessons/12980 | LEVEL2 |
+  
+</div>
+</details>
